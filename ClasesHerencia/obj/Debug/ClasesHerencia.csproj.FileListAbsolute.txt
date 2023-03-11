@@ -1,0 +1,8 @@
+C:\Users\elmer\source\repos\CLASES\ClasesHerencia\ClasesHerencia\bin\Debug\ClasesHerencia.exe.config
+C:\Users\elmer\source\repos\CLASES\ClasesHerencia\ClasesHerencia\bin\Debug\ClasesHerencia.exe
+C:\Users\elmer\source\repos\CLASES\ClasesHerencia\ClasesHerencia\bin\Debug\ClasesHerencia.pdb
+C:\Users\elmer\source\repos\CLASES\ClasesHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.csproj.AssemblyReference.cache
+C:\Users\elmer\source\repos\CLASES\ClasesHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\elmer\source\repos\CLASES\ClasesHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.csproj.CoreCompileInputs.cache
+C:\Users\elmer\source\repos\CLASES\ClasesHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.exe
+C:\Users\elmer\source\repos\CLASES\ClasesHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.pdb
